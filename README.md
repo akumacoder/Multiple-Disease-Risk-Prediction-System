@@ -8,5 +8,5 @@ Features:
 3. Handles imbalanced data using SMOTE
 4. Interactive Streamlit web interface
 5. Real-time prediction based on user input
-6. Displays risk levels (Low, Medium, High)
+6. Displays risk levels (Low, High)
 7. Model selection based on performance metrics (Recall, Precision, F1-score)
